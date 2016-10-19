@@ -1,0 +1,23 @@
+h1
+{
+	color:red;
+	text-align: center;
+	text-declaration: underline;
+	font-family: "Comic sans ms"
+}
+
+#anotherh1{
+	color: blue;
+	font-family: "Times New Roman";
+}
+
+#anotherh1:hover {
+    opacity: 0;
+    transform: translateY(2px);
+}
+
+div
+{
+	height:100px;
+	color:blue;
+}
